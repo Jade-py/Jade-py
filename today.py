@@ -322,15 +322,15 @@ def svg_overwrite(filename, age_data, commit_data, star_data, repo_data, contrib
     svg = minidom.parse(filename)
     f = open(filename, mode='w', encoding='utf-8')
     tspan = svg.getElementsByTagName('tspan')
-    tspan[30].firstChild.data = age_data
-    tspan[42].firstChild.data = repo_data
-    tspan[43].firstChild.data = contrib_data
-    tspan[44].firstChild.data = commit_data
-    tspan[45].firstChild.data = star_data
-    tspan[46].firstChild.data = follower_data
-    tspan[47].firstChild.data = loc_data[2]
-    tspan[47].firstChild.data = loc_data[0] + '++'
-    tspan[47].firstChild.data = loc_data[1] + '--'
+    tspan[27].firstChild.data = age_data
+    tspan[50].firstChild.data = repo_data
+    tspan[53].firstChild.data = contrib_data
+    tspan[55].firstChild.data = commit_data
+    tspan[57].firstChild.data = star_data
+    tspan[59].firstChild.data = follower_data
+    tspan[61].firstChild.data = loc_data[2]
+    tspan[62].firstChild.data = loc_data[0] + '++'
+    tspan[63].firstChild.data = loc_data[1] + '--'
     f.write(svg.toxml('utf-8').decode('utf-8'))
     f.close()
 
@@ -357,7 +357,8 @@ def svg_element_getter(filename):
     svg = minidom.parse(filename)
     open(filename, mode='r', encoding='utf-8')
     tspan = svg.getElementsByTagName('tspan')
-    for index in range(len(tspan)): print(index, tspan[index].firstChild.data)
+    for index in range(len(tspan)):
+        print(index, tspan[index].firstChild.data)
 
 
 def user_getter(username):
