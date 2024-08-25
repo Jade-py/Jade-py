@@ -1,0 +1,17 @@
+This is an archive of all of the deleted repositories I have contributed to.
+
+repository (hashed)  total commits  my commits  LOC added by me  LOC deleted by me
+         \                \                \           \___________  \
+          \                \                \_____________________ \  \
+           \                \___________________________________  \ \  \
+____________\___________________________________________________\__\_\__\____
+d2d9be19a9e38571f89d92f796c1105b1224a60b2fcf3636bd7123dcc0390aa4 2 2 17 0
+ecbd796b31a11f920fbe16f064bf9e1dd38923c0c7fb4aae043f5373f54913d8 32 32 85421 321
+aa1cf908d353e30a2148d1ba48e4bc3ef30c662b06ca7dc8fd23a0d7d3b6846d 8 8 89447 91
+a14a11992120ed83403d26ed7fefb8fdc332fd07ca0bd5d04d3f4a8a050d9fd2 32 32 68268 173
+f63b760ce040838291c56c2b374fbb61a1fed5e5f45e51ab4440fa040d8dc086 6 6 406 80
+a97fe9fc39b3385040f7fb4347ce9c20d2ee516e0f7c036a5d3e64de6eb0f50b 5 5 465 66
+8810d11abc392f0f99665d678bdf5717f17f58547acf2b770184e352e55a35ca 13 13 2365 39
+720a953a58f15fa96ea04a83dd836b970fbca6a0e61d5a53fc4dd73776fde1f2 9 9 463 139
+a4db0254b5d7cb24f0e5cab6b8d0fed0675780ac778b78658b0e91c1f0a27ce1 3 3 84 1
+98b977fdf02980e1be503b6641e8b712e798fa61338389ddf0c2cede63a17b85 15 15 799 17

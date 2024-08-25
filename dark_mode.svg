@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?><svg xmlns="http://www.w3.org/2000/svg" font-family="Andale Mono,AndaleMono,Consolas,monospace" width="975px" height="550px" font-size="16px">
+<style>
+.keyColor {fill: #ffa657;}
+.valueColor {fill: #a5d6ff;}
+.addColor {fill: #3fb950;}
+.delColor {fill: #f85149;}
+.commentColor {fill: #8b949e;}
+text, tspan {white-space: pre;}
+</style>
+
+<rect width="970px" height="530px" fill="#161b22" rx="15"/>
+
+<text x="15" y="30" fill="#c9d1d9" class="ascii">
+<tspan x="15" y="30">                      oc...'..''.......c    </tspan>
+<tspan x="15" y="50">              ...........  .  ........'l    </tspan>
+<tspan x="15" y="70">        ......                   .....'d    </tspan>
+<tspan x="15" y="90">        ......                     . ..:    </tspan>
+<tspan x="15" y="110">    ... ...... .                     .,:    </tspan>
+<tspan x="15" y="130">    ........  .....                 .':l    </tspan>
+<tspan x="15" y="150">      ...,;;,,,;,,,'...            .;;lo    </tspan>
+<tspan x="15" y="170">       .;xdooool:;,''''...          ,;lo    </tspan>
+<tspan x="15" y="190">        cxxxdc'......'''..     ..   ,;lo    </tspan>
+<tspan x="15" y="210">        ,'.;c'...',',;,,'.   ..';'. ;:ox    </tspan>
+<tspan x="15" y="230">        ..,ll;;:cclodl;,'..  ..';,. :cox    </tspan>
+<tspan x="15" y="250">         .dl:;;:odddoc;,'.   ..,'.  :cld    </tspan>
+<tspan x="15" y="270">         .d;''',:lol:;,'..   ....  .ccod    </tspan>
+<tspan x="15" y="290">          :,'......,,'...    ....  ,ccoo    </tspan>
+<tspan x="15" y="310">          ..:c;,''.....       ... .;::cl    </tspan>
+<tspan x="15" y="330">           .;'.','...         .....;,,lo    </tspan>
+<tspan x="15" y="350">            ......            .....;;:oo    </tspan>
+<tspan x="15" y="370">            ..            .........::cdd    </tspan>
+<tspan x="15" y="390">             .',coc,...............:oodd    </tspan>
+<tspan x="15" y="410">         ...ckxokoc:,'''............olod    </tspan>
+<tspan x="15" y="430">         .;xdlc:;,'..................:ll    </tspan>
+<tspan x="15" y="450">         ..',;;,'.....................,l    </tspan>
+</text>
+
+<text x="400" y="30" fill="#c9d1d9">
+<tspan x="400" y="30">Jadepy</tspan>
+<tspan x="400" y="50">───────</tspan>
+<tspan x="400" y="70" class="keyColor">OS</tspan>: <tspan class="valueColor">Windows, Linux</tspan>
+<tspan x="400" y="90" class="keyColor">Uptime</tspan>: <tspan class="valueColor">21 Years, 2 months, 24 days</tspan>
+<tspan x="400" y="110" class="keyColor">Host</tspan>: <tspan class="valueColor">Chandigarh University, CU</tspan>
+<tspan x="400" y="130" class="keyColor">21 years, 3 months, 21 days</tspan>: <tspan class="valueColor">Computer Science and Engineering, BE</tspan>
+<tspan x="400" y="150" class="keyColor">IDE</tspan>: <tspan class="valueColor">Pycharm Professional 2023.3.3</tspan>
+<tspan x="400" y="190" class="keyColor">Languages.Programming</tspan>: <tspan class="valueColor">Python, Java, Rust</tspan>
+<tspan x="400" y="210" class="keyColor">Languages.Frameworks</tspan>: <tspan class="valueColor">django, django-rest-framework, celery, gunicorn, nginx, pymysql, HTML, CSS</tspan>
+<tspan x="400" y="230" class="keyColor">Languages.Regional</tspan>: <tspan class="valueColor">English, Hindi, Punjabi, Malayalam</tspan>
+<tspan x="400" y="270" class="keyColor">Contact</tspan>
+<tspan x="400" y="290">────────</tspan>
+<tspan x="400" y="310" class="keyColor">10</tspan>: <tspan class="valueColor">17</tspan>
+<tspan x="400" y="330" class="keyColor">224    </tspan>: <tspan class="valueColor">0</tspan>
+<tspan x="400" y="350" class="keyColor">1   </tspan>: <tspan class="valueColor">1,697--</tspan>
+<tspan x="400" y="390" class="keyColor">Github Stats</tspan>
+<tspan x="400" y="410">─────────────</tspan>
+<tspan x="400" y="490" class="keyColor">Repos</tspan>: <tspan class="valueColor">10</tspan> {<tspan class="keyColor">Contributed</tspan>: <tspan class="valueColor">10</tspan>}  | <tspan class="keyColor">Commmits</tspan>: <tspan class="valueColor">124    </tspan>| <tspan class="keyColor">Stars</tspan>: <tspan class="valueColor">0</tspan>
+<tspan x="400" y="510" class="keyColor">Followers</tspan>: <tspan class="valueColor">1   </tspan>| <tspan class="keyColor">Lines of Code</tspan>: <tspan class="valueColor">246,800</tspan> (<tspan class="addColor">247,727++</tspan>, <tspan class="delColor">927--</tspan>)
+</text>
+</svg>
